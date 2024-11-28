@@ -1,0 +1,6 @@
+export const jwtToken = {
+    ACCESS_SECRET: "1234567890",
+    ACCESS_TOKEN_EXPIRY: "15m",
+    REFRESH_SECRET: "0987654321",
+    REFRESH_TOKEN_EXPIRY: "7d",
+}
